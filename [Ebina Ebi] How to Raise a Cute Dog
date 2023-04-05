@@ -1,0 +1,25 @@
+{
+   "title":"[Ebina Ebi] How to Raise a Cute Dog",
+   "description":"",
+   "author":"Enoki",
+   "artist":"Enoki",
+   "cover":"https://i.imgur.com/5PjisJK.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/JWthXjR"
+         },
+         "last_updated":1624606143,
+         "title":"How to Raise a Cute Dog",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/qKj3LjA"
+         },
+         "last_updated":1624606143,
+         "title":"How to Raise a Clever Dog",
+         "volume":"2"
+      }
+   }
+}
